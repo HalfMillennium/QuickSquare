@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/apple/Documents/GitHub/Klooni1010/android/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/apple/Documents/GitHub/Klooni1010/android/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/Klooni1010/android/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher_foreground.png",
+        "source": "/Users/apple/Documents/GitHub/Klooni1010/android/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/Klooni1010/android/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/apple/Documents/GitHub/Klooni1010/android/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]
